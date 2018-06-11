@@ -8,3 +8,7 @@
 ## MindMap-Python-ZOE
 - 关于Python的一些思维导图
 - [ZOE's MindMap](https://woaielf.github.io/)
+
+
+## Python_Basics.jpg
+- Python语言基础学习路线图
