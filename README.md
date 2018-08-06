@@ -4,12 +4,6 @@
 - 出版日期 : 2018-02-05
 
 
-## Python-GUI-Programming-Cookbook-Second-Edition
-- PythonGUI编程食谱（第2版）
-- 示例源码 : https://github.com/PacktPublishing/Python-GUI-Programming-Cookbook-Second-Edition
-- 出版日期 : 2017-05
-
-
 ## Python-Basics.jpg
 - Python语言基础学习路线图
 
